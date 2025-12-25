@@ -31,21 +31,16 @@ const developer = {
 ## ⛓️ Blockchain Stack
 
 <div align="center">
-
-### 🔗 Networks & Protocols
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
-![BNB Chain](https://img.shields.io/badge/BNB_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
-![Arbitrum](https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=arbitrum&logoColor=white)
-![Optimism](https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white)
-![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white)
-![Base](https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui-000000?style=for-the-badge&logo=sui&logoColor=white)
 ![XRPL](https://img.shields.io/badge/XRPL-23292F?style=for-the-badge&logo=xrp&logoColor=white)
 ![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white)
-
-### 📜 Smart Contract Development
+![BNB Chain](https://img.shields.io/badge/BNB_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=arbitrum&logoColor=white)
+![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white)
+![Base](https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Move](https://img.shields.io/badge/Move-5D4F85?style=for-the-badge&logoColor=white)
@@ -55,8 +50,6 @@ const developer = {
 ![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=for-the-badge&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor-7C3AED?style=for-the-badge&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
-
-### 🌐 Web3 Libraries
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logoColor=white)
 ![Viem](https://img.shields.io/badge/Viem-1C1C1C?style=for-the-badge&logoColor=white)
